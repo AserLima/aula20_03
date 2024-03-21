@@ -8,7 +8,7 @@ public class Main {
     private static ArrayList<Pessoa> usuarios = new ArrayList<Pessoa>();
     private static Scanner teclado = new Scanner(System.in);
     public static void main(String[] args) {
-
+ssssss
         System.out.println("Spotify do paraguai");
 
         System.out.println("inclua artistas");
